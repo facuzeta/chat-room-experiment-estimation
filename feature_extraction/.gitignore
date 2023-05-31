@@ -1,0 +1,6 @@
+output_exp*.csv
+**/.DS_Store
+.DS_Store
+**/__pycache__/
+cc.es.300.bin
+data_experiment_*.csv
